@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383847334994",
+    "project_id": "heart-attack-predictor-9f160",
+    "storage_bucket": "heart-attack-predictor-9f160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383847334994:android:0f2dcc5c6a2f6d79b1cb8b",
+        "android_client_info": {
+          "package_name": "com.example.heart_attack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383847334994-1lsnn6ti17d0r3f98uqd5j2lc2gvstkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heart_attack",
+            "certificate_hash": "bdcbc05bc973ec3ffe83fada916ea99d8c1fbe2e"
+          }
+        },
+        {
+          "client_id": "383847334994-pp49m6b99p6eumje013kigc559clb14e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBNiMRxaUx3Lft-MxE9ROM-POW5Xd7Us0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383847334994-pp49m6b99p6eumje013kigc559clb14e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
